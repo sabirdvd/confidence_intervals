@@ -22,6 +22,16 @@ Usage:	 confidence intervals.sh <-r reference> <-t hypothesis> <-n nreps>  <-l l
  Output: - confidence interval
 ```
 
+## How to run - multiple references
+ 
+
+ ```
+ ./confidence_intervals.sh  -r ref_1.txt -r ref_2.txt -r  ref_3.txt  -r /ref_4.txt- r ref_5.txt -b baseline.txt  -t  you_result.txt -n 1000 
+ 
+```
+
+
+
 ## IMT effort estimation: WSR - MAR (or other metrics)
 ```
 Usage:	 imt_confindence intervals.sh <-t scores> <-n nreps> 
@@ -49,8 +59,3 @@ Two-sided paired approximate randomization tests to assess the statistical signi
 art.sh <-r reference> <b output-systemA > <-t output-systemB > <-n nreps>  <-l lan> 
 
  
- # How to run 
- 
- ```
- ./confidence_intervals.sh  -r ref_1.txt -r ref_2.txt -r  ref_3.txt  -r /ref_4.txt- r ref_5.txt -b baseline.txt  -t  you_result.txt -n 1000 
-```
