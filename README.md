@@ -1,4 +1,4 @@
-# confidence_intervals
+# Confidence_intervals
 Bootstrap resampling for some tasks
 
 ## MT quality: Bleu - TER - Meteor
