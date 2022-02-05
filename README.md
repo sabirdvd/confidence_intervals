@@ -27,7 +27,6 @@ Usage:	 confidence intervals.sh <-r reference> <-t hypothesis> <-n nreps>  <-l l
 
  ```
  ./confidence_intervals.sh  -r ref_1.txt -r ref_2.txt -r  ref_3.txt  -r /ref_4.txt- r ref_5.txt -b baseline.txt  -t  you_result.txt -n 1000 
- 
 ```
 
 Result
