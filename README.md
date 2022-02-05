@@ -54,8 +54,6 @@ Computing significance level of BLEU
 	 Significance level: 0.000999000999000999
 Computing significance level of TER
 	 Significance level: 0.000999000999000999
-
-
 ```
 
 
